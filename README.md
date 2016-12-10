@@ -1,6 +1,6 @@
 # angularfire-slack
 
-This repository includes the source code for getting started with the [Build a Real-Time Slack Clone using AngularFire](https://thinkster.io/tutorials/angularfire-realtime-slack-clone)
+This repository includes the final populated source code based on the [Build a Real-Time Slack Clone using AngularFire](https://thinkster.io/tutorials/angularfire-realtime-slack-clone)
 made by [Thinkster](https://thinkster.io)
 
 ***
